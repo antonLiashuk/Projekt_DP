@@ -1,2 +1,4 @@
 # Projekt_DP
-pierwszy repozytorium
+<br>
+  <strong>Anton Liashuk, Darya Yeusihneyeva, Palina Yeusihneyeva </strong>
+<br>
